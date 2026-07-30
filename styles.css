@@ -47,5 +47,10 @@ nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
+}
 
+#abt-me img {
+    clip-path: circle();
+    width:250px;
+    height:250px;
 }
